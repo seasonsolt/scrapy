@@ -1,0 +1,13 @@
+PhantomJS is launching GhostDriver...
+[INFO  - 2017-06-23T05:15:25.779Z] GhostDriver - Main - running on port 49868
+[INFO  - 2017-06-23T05:15:27.154Z] Session [f7de9e40-57d2-11e7-8fe5-bfe91e537545] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.7 Safari/534.34","webSecurityEnabled":true}
+[INFO  - 2017-06-23T05:15:27.154Z] Session [f7de9e40-57d2-11e7-8fe5-bfe91e537545] - page.customHeaders:  - {}
+[INFO  - 2017-06-23T05:15:27.154Z] Session [f7de9e40-57d2-11e7-8fe5-bfe91e537545] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"1.9.7","driverName":"ghostdriver","driverVersion":"1.1.0","platform":"windows-7-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-06-23T05:15:27.154Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: f7de9e40-57d2-11e7-8fe5-bfe91e537545
+[ERROR - 2017-06-23T05:15:31.111Z] Session [f7de9e40-57d2-11e7-8fe5-bfe91e537545] - page.onError - msg: ReferenceError: Can't find variable: TableScroll
+[ERROR - 2017-06-23T05:15:31.111Z] Session [f7de9e40-57d2-11e7-8fe5-bfe91e537545] - page.onError - stack:
+  (anonymous function) (http://img.hexun.com/news/rmb201509/js/rmb.js:62)
+  (anonymous function) (http://img.hexun.com/news/bank2015/js/jquery-1.8.3.min.js:1)
+  (anonymous function) (http://img.hexun.com/news/bank2015/js/jquery-1.8.3.min.js:1)
+  (anonymous function) (http://img.hexun.com/news/bank2015/js/jquery-1.8.3.min.js:1)
+  (anonymous function) (http://img.hexun.com/news/bank2015/js/jquery-1.8.3.min.js:1)

@@ -1,0 +1,168 @@
+1498197626152	geckodriver	INFO	Listening on 127.0.0.1:51928
+1498197764621	geckodriver	INFO	Listening on 127.0.0.1:52044
+1498197984002	geckodriver	INFO	Listening on 127.0.0.1:53573
+1498197986035	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498197989461	Marionette	INFO	Listening on port 53582
+1498197989652	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://img.hexun.com/news/rmb201509/js/rmb.js, line 62: ReferenceError: TableScroll is not defined
+JavaScript error: http://img.hexun.com/zt/hq/slider.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://stock.hexun.com/gphqtc/, line 138: TypeError: setCookUrl.getCookieSid(...) is undefined
+1498197999864	Marionette	INFO	New connections will no longer be accepted
+1498198068176	geckodriver	INFO	Listening on 127.0.0.1:65105
+1498198070213	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498198073743	Marionette	INFO	Listening on port 65111
+1498198073825	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://img.hexun.com/news/rmb201509/js/rmb.js, line 62: ReferenceError: TableScroll is not defined
+JavaScript error: http://img.hexun.com/zt/hq/slider.js, line 1: ReferenceError: $ is not defined
+1498198084999	Marionette	INFO	New connections will no longer be accepted
+1498198119488	geckodriver	INFO	Listening on 127.0.0.1:65197
+1498198121547	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498198124739	Marionette	INFO	Listening on port 65203
+1498198125172	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://img.hexun.com/news/rmb201509/js/rmb.js, line 62: ReferenceError: TableScroll is not defined
+JavaScript error: http://img.hexun.com/zt/hq/slider.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://stock.hexun.com/gphqtc/, line 138: TypeError: setCookUrl.getCookieSid(...) is undefined
+1498198136442	Marionette	INFO	New connections will no longer be accepted
+1498198161812	geckodriver	INFO	Listening on 127.0.0.1:65268
+1498198163892	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498198167272	Marionette	INFO	Listening on port 65274
+1498198167512	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://img.hexun.com/zt/hq/slider.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://stock.hexun.com/gphqtc/, line 138: TypeError: setCookUrl.getCookieSid(...) is undefined
+JavaScript error: http://img.hexun.com/news/rmb201509/js/rmb.js, line 62: ReferenceError: TableScroll is not defined
+1498198228131	Marionette	INFO	New connections will no longer be accepted
+1498198277272	geckodriver	INFO	Listening on 127.0.0.1:62880
+1498198279325	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498198282435	Marionette	INFO	Listening on port 62886
+1498198282946	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://img.hexun.com/zt/hq/slider.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://stock.hexun.com/gphqtc/, line 138: TypeError: setCookUrl.getCookieSid(...) is undefined
+JavaScript error: http://img.hexun.com/news/rmb201509/js/rmb.js, line 62: ReferenceError: TableScroll is not defined
+1498198285888	Marionette	INFO	New connections will no longer be accepted
+1498199108241	geckodriver	INFO	Listening on 127.0.0.1:63096
+1498199110278	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498199113502	Marionette	INFO	Listening on port 63102
+1498199113894	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://img.hexun.com/news/rmb201509/js/rmb.js, line 62: ReferenceError: TableScroll is not defined
+JavaScript error: http://img.hexun.com/zt/hq/slider.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://stock.hexun.com/gphqtc/, line 138: TypeError: setCookUrl.getCookieSid(...) is undefined
+1498199116847	Marionette	INFO	New connections will no longer be accepted
+1498201760380	geckodriver	INFO	Listening on 127.0.0.1:50459
+1498201762396	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498201765761	Marionette	INFO	Listening on port 50467
+1498201766017	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://img.hexun.com/news/rmb201509/js/rmb.js, line 62: ReferenceError: TableScroll is not defined
+JavaScript error: http://img.hexun.com/zt/hq/slider.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://stock.hexun.com/gphqtc/, line 138: TypeError: setCookUrl.getCookieSid(...) is undefined
+1498201781061	Marionette	INFO	Ceased listening
+1498201895070	geckodriver	INFO	Listening on 127.0.0.1:50706
+1498201897104	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498201900390	Marionette	INFO	Listening on port 50714
+1498201900721	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://img.hexun.com/news/rmb201509/js/rmb.js, line 62: ReferenceError: TableScroll is not defined
+JavaScript error: http://img.hexun.com/zt/hq/slider.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://stock.hexun.com/gphqtc/, line 138: TypeError: setCookUrl.getCookieSid(...) is undefined
+1498201901787	Marionette	INFO	New connections will no longer be accepted
+1498201959677	geckodriver	INFO	Listening on 127.0.0.1:50851
+1498201961725	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498201964699	Marionette	INFO	Listening on port 50861
+1498201964849	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://img.hexun.com/news/rmb201509/js/rmb.js, line 62: ReferenceError: TableScroll is not defined
+JavaScript error: http://img.hexun.com/zt/hq/slider.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://stock.hexun.com/gphqtc/, line 138: TypeError: setCookUrl.getCookieSid(...) is undefined
+1498202566382	Marionette	INFO	Ceased listening
+0.0.1:51116
+1498202044269	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498202047626	Marionette	INFO	Listening on port 51124
+1498202047892	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://img.hexun.com/news/rmb201509/js/rmb.js, line 62: ReferenceError: TableScroll is not defined
+JavaScript error: http://img.hexun.com/zt/hq/slider.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://stock.hexun.com/gphqtc/, line 138: TypeError: setCookUrl.getCookieSid(...) is undefined
+1498202048640	Marionette	INFO	New connections will no longer be accepted
+1498202076436	geckodriver	INFO	Listening on 127.0.0.1:51226
+1498202078495	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498202081407	Marionette	INFO	Listening on port 51234
+1498202081607	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://img.hexun.com/zt/hq/slider.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://stock.hexun.com/gphqtc/, line 138: TypeError: setCookUrl.getCookieSid(...) is undefined
+JavaScript error: http://img.hexun.com/news/rmb201509/js/rmb.js, line 62: ReferenceError: TableScroll is not defined
+1498202083975	Marionette	INFO	New connections will no longer be accepted
+1498202316484	geckodriver	INFO	Listening on 127.0.0.1:51637
+1498202318516	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498202321680	Marionette	INFO	Listening on port 51645
+1498202322135	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://img.hexun.com/zt/hq/slider.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://stock.hexun.com/gphqtc/, line 138: TypeError: setCookUrl.getCookieSid(...) is undefined
+JavaScript error: http://img.hexun.com/news/rmb201509/js/rmb.js, line 62: ReferenceError: TableScroll is not defined
+1498202340303	geckodriver	INFO	Listening on 127.0.0.1:51717
+1498202342374	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498202345573	Marionette	INFO	Listening on port 51725
+1498202346000	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://img.hexun.com/zt/hq/slider.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://stock.hexun.com/gphqtc/, line 138: TypeError: setCookUrl.getCookieSid(...) is undefined
+JavaScript error: http://img.hexun.com/news/rmb201509/js/rmb.js, line 62: ReferenceError: TableScroll is not defined
+1498202540288	geckodriver	INFO	Listening on 127.0.0.1:52103
+1498202542331	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498202545674	Marionette	INFO	Listening on port 52113
+1498202545958	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://img.hexun.com/news/rmb201509/js/rmb.js, line 62: ReferenceError: TableScroll is not defined
+JavaScript error: http://img.hexun.com/zt/hq/slider.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://stock.hexun.com/gphqtc/, line 138: TypeError: setCookUrl.getCookieSid(...) is undefined
+1498202553004	Marionette	INFO	Ceased listening
+1498202601992	geckodriver	INFO	Listening on 127.0.0.1:52266
+1498202604037	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498202607168	Marionette	INFO	Listening on port 52274
+1498202607660	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://img.hexun.com/news/rmb201509/js/rmb.js, line 62: ReferenceError: TableScroll is not defined
+JavaScript error: http://img.hexun.com/zt/hq/slider.js, line 1: ReferenceError: $ is not defined
+1498202608461	Marionette	INFO	New connections will no longer be accepted
+1498202630131	geckodriver	INFO	Listening on 127.0.0.1:52349
+1498202632191	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498202635263	Marionette	INFO	Listening on port 52359
+1498202635341	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://img.hexun.com/zt/hq/slider.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://stock.hexun.com/gphqtc/, line 138: TypeError: setCookUrl.getCookieSid(...) is undefined
+JavaScript error: http://img.hexun.com/news/rmb201509/js/rmb.js, line 62: ReferenceError: TableScroll is not defined
+1498202661367	Marionette	INFO	Ceased listening
+1498204208318	geckodriver	INFO	Listening on 127.0.0.1:55272
+1498204210373	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498204213818	Marionette	INFO	Listening on port 55282
+1498204214014	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://img.hexun.com/news/rmb201509/js/rmb.js, line 62: ReferenceError: TableScroll is not defined
+JavaScript error: http://img.hexun.com/zt/hq/slider.js, line 1: ReferenceError: $ is not defined
+1498204294735	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1498207263640	Marionette	INFO	Ceased listening
+0.0.1:63887
+1498205410752	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498205418997	Marionette	INFO	Listening on port 63897
+1498205419585	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://img.hexun.com/zt/hq/slider.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://stock.hexun.com/gphqtc/, line 138: TypeError: setCookUrl.getCookieSid(...) is undefined
+JavaScript error: http://img.hexun.com/news/rmb201509/js/rmb.js, line 62: ReferenceError: TableScroll is not defined
+1498205499902	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1498205813232	Marionette	INFO	Ceased listening
+1498439902441	geckodriver	INFO	Listening on 127.0.0.1:64148
+1498439904430	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498439907398	Marionette	INFO	Listening on port 64156
+1498439907542	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://img.hexun.com/zt/hq/slider.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://img.hexun.com/news/rmb201509/js/rmb.js, line 62: ReferenceError: TableScroll is not defined
+JavaScript error: http://stock.hexun.com/gphqtc/, line 138: TypeError: setCookUrl.getCookieSid(...) is undefined
+1498439975706	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1498439996734	Marionette	INFO	Ceased listening
+0.0.1:55467
+1498439996435	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498439999400	Marionette	INFO	Listening on port 55477
+1498439999557	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://img.hexun.com/zt/hq/slider.js, line 1: ReferenceError: $ is not defined
+JavaScript error: http://stock.hexun.com/gphqtc/, line 138: TypeError: setCookUrl.getCookieSid(...) is undefined
+JavaScript error: http://img.hexun.com/news/rmb201509/js/rmb.js, line 62: ReferenceError: TableScroll is not defined
+1498440376453	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1498440376454	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1498440376709	Marionette	INFO	Ceased listening
